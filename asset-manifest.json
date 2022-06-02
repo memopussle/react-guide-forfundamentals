@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/memopussle/react-guide-forfundamentals.git/static/css/main.8fc6b7ba.chunk.css",
-    "main.js": "/memopussle/react-guide-forfundamentals.git/static/js/main.c9682762.chunk.js",
-    "main.js.map": "/memopussle/react-guide-forfundamentals.git/static/js/main.c9682762.chunk.js.map",
+    "main.css": "/memopussle/react-guide-forfundamentals.git/static/css/main.fc1e3138.chunk.css",
+    "main.js": "/memopussle/react-guide-forfundamentals.git/static/js/main.ffa026c5.chunk.js",
+    "main.js.map": "/memopussle/react-guide-forfundamentals.git/static/js/main.ffa026c5.chunk.js.map",
     "runtime-main.js": "/memopussle/react-guide-forfundamentals.git/static/js/runtime-main.7316b928.js",
     "runtime-main.js.map": "/memopussle/react-guide-forfundamentals.git/static/js/runtime-main.7316b928.js.map",
     "static/js/2.ca26a83e.chunk.js": "/memopussle/react-guide-forfundamentals.git/static/js/2.ca26a83e.chunk.js",
     "static/js/2.ca26a83e.chunk.js.map": "/memopussle/react-guide-forfundamentals.git/static/js/2.ca26a83e.chunk.js.map",
     "index.html": "/memopussle/react-guide-forfundamentals.git/index.html",
-    "static/css/main.8fc6b7ba.chunk.css.map": "/memopussle/react-guide-forfundamentals.git/static/css/main.8fc6b7ba.chunk.css.map",
+    "static/css/main.fc1e3138.chunk.css.map": "/memopussle/react-guide-forfundamentals.git/static/css/main.fc1e3138.chunk.css.map",
     "static/js/2.ca26a83e.chunk.js.LICENSE.txt": "/memopussle/react-guide-forfundamentals.git/static/js/2.ca26a83e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7316b928.js",
     "static/js/2.ca26a83e.chunk.js",
-    "static/css/main.8fc6b7ba.chunk.css",
-    "static/js/main.c9682762.chunk.js"
+    "static/css/main.fc1e3138.chunk.css",
+    "static/js/main.ffa026c5.chunk.js"
   ]
 }

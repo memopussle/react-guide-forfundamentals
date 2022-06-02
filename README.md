@@ -45,3 +45,15 @@ return(
 )
  
 ```
+
+## Splitting components into multiple components
+
+- We can split components into another file which is a child of current child
+
+-ie:                        App.js ( parent's file)
+                                  /     \
+                                 /       \
+                          ExpenseItem    
+                              |
+                              |
+                         ExpenseDate
